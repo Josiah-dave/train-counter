@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card h1{
+    font-size: 90px;
+    
+}
+
+.card{
+    background: url(./portfolio-7.jpg);
+    background-position: left;
+    background-size: cover;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 600;
+}
